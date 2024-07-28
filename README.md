@@ -3,10 +3,9 @@
     <br>
     <a href="https://www.linkedin.com/in/juan-paez-411348274/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://github.com/kats76/kats76/blob/main/Juan%20Paez%20CV%20(1).pdf" target="_blank">
-        <span style="background-color: #007ACC; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold;">Currículum</span>
-    </a>
+<a href="https://github.com/kats76/kats76/blob/main/Juan%20Paez%20CV%20(1).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/curr%C3%ADculum-%2300bfae.svg?color=009688&style=for-the-badge&logo=pdf&logoColor=white" alt="currículum" style="margin-bottom: 5px;" />
+</a>
 </div>
 
 <div>
