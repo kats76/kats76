@@ -1,31 +1,34 @@
 <div align="center">
-    <h2> ¡Hola! Bienvenido a mi perfil de GitHub! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+    <h2> ¡Hola! Bienvenido a mi perfil de Github! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
     <a href="https://www.linkedin.com/in/juan-paez-411348274/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+        <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
-    <br />
-    <br />
+<br />
+<br />
 
-    Mi nombre es Juan David, soy un desarrollador de software con más de un año de experiencia en el diseño, desarrollo e implementación de aplicaciones y soluciones utilizando una variedad de tecnologías y lenguajes de programación.
-    <br />
-    <br />
-    Soy un desarrollador apasionado por el ecosistema Linux, tanto a nivel de usuario como en servidores. Disfruto desarrollando proyectos y probando su despliegue, ya sea en servidores caseros o VPS. Tengo experiencia en la implementación y gestión de contenedores con Docker, y me gusta personalizar mi entorno de desarrollo para optimizar mi productividad.
-    <br />
-    <br />
+Mi nombre es Juan David, soy un desarrollador de software con más de un año de experiencia en el diseño, desarrollo e implementación de aplicaciones y soluciones utilizando una variedad de tecnologías y lenguajes de programación.
+<br />
 
-    Contactame **[Aquí](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** o <a href="mailto:juandavidpaezrivadeneria@gmail.com"><b>Envíame un correo</b></a>.
-    <br />
-    <br />
+<br />
+Soy un desarrollador apasionado por el ecosistema Linux, tanto a nivel de usuario como en servidores. Disfruto desarrollando proyectos y probando su despliegue, ya sea en servidores caseros o VPS. Tengo experiencia en la implementación y gestión de contenedores con Docker, y me gusta personalizar mi entorno de desarrollo para optimizar mi productividad.
+<br />
+<br />
 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
-    <br />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
-    <br />
-    <br />
-    <br />
+Contactame
+ **[Aqui](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** o <a href="mailto:juandavidpaezrivadeneria@gmail.com"><b>Enviame un correo</b></a>.
+<br />
+<br />
 
-    **¡Feliz codificación!** 😊
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<br />
+<br />
+<br />
+</div>
+
+<div align="center">
 </div>
 
 <div align="center">
