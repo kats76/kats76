@@ -4,8 +4,8 @@
     <a href="https://www.linkedin.com/in/juan-paez-411348274/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
     </a>
-     <a href="https://github.com/kats76/kats76/blob/main/Juan%20Paez%20CV%20(1).pdf" target="_blank">
-        <img src="https://img.shields.io/badge/curriculum-%23000000.svg?color=007ACC&style=for-the-badge&logo=pdf&logoColor=white" alt="curriculum" style="width: 32px; vertical-align: middle; margin-left: 10px;" />
+    <a href="https://github.com/kats76/kats76/blob/main/Juan%20Paez%20CV%20(1).pdf" target="_blank">
+        <span style="background-color: #007ACC; color: white; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold;">Currículum</span>
     </a>
 </div>
 
@@ -39,7 +39,7 @@
     <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="css"></a>
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="javascript"></a>
     <a href="https://www.java.com" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"></a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg" alt="dotnet"></a>
+    <a href="https://dotnet.microsoft.com/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" alt="dotnet"></a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"></a>
     <a href="https://www.python.org/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="python"></a>
     <a href="https://www.php.net/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg" alt="php"></a>
