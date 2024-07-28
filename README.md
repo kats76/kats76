@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
+    <h2> ¡Hola! Bienvenido a mi perfil de Github! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+    <a href="https://linkedin.com/in/juan-david" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+   
 
-<!--
-**kats76/kats76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <h2>Mi nombre es Juan David, un poco sobre mí:</h2>
+    <p><b>Desarrollador de software</b></p>
+    <p><b>Email:</b> juan.davidpaez@hotmail.com</p>
+    <p><b>Ubicación:</b> Madrid, España</p>
+    <p><b>Idioma:</b> Español</p>
+    <p><b>Perfil de GitHub:</b> <a href="https://github.com/kats76" target="_blank">github.com/kats76</a></p>
 
-Here are some ideas to get you started:
+    <br />
+    <p><b>PERFIL:</b> Desarrollador de software con más de un año de experiencia en el desarrollo de soluciones tecnológicas, automatización de procesos y despliegue en producción.</p>
+    
+    <br />
+    <p><b>HABILIDADES:</b></p>
+    <ul>
+        <li>C#</li>
+        <li>.NET</li>
+        <li>Bases de datos SQL y No SQL</li>
+        <li>HTML, CSS, JS</li>
+        <li>PYTHON</li>
+        <li>Programación Orientada a Objetos</li>
+        <li>Linux</li>
+        <li>Apache, SSH, Certificaciones SSL</li>
+    </ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <br />
+    <p><b>IDIOMAS:</b></p>
+    <ul>
+        <li>Español - Nativo</li>
+        <li>Inglés - Técnico</li>
+    </ul>
+
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kats76&layout=compact&theme=dark&bg_color=0A0A0A" alt="Juan David Top Languages"/>
+    <br />
+    <br />
+
+    <p><b>¡Feliz Codificación!</b> 😊</p>
+</div>
+
+<div align="center">
+    Crédito: [abdoachhoubi](https://github.com/abdoachhoubi)
+    Última edición: 30/06/2022
+</div>
