@@ -36,7 +36,7 @@
     <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="css"></a>
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="javascript"></a>
     <a href="https://www.java.com" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"></a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" alt="dotnet"></a>
+    <a href="https://dotnet.microsoft.com/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg" alt="dotnet"></a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"></a>
     <a href="https://www.python.org/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="python"></a>
     <a href="https://www.php.net/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg" alt="php"></a>
