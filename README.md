@@ -4,8 +4,8 @@
     <a href="https://www.linkedin.com/in/juan-paez-411348274/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
     </a>
-    <a href="https://drive.google.com/file/d/your-file-id/view?usp=sharing" target="_blank">
-        <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwcHgiIGhlaWdodD0iMTIwcHgiIHZpZXdCb3g9IjAgMCAxMjAgMTIwIj48cmVjdCB3aWR0aD0iMTIwcHgiIGhlaWdodD0iMTIwcHgiIHN0cm9rZT0iIzAwQzAyMiIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48cGF0aCBkPSJNMTAgMEwgMCAxMEwgMTAgMEwiIHN0cm9rZT0iIzAwQzAyMiIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=" alt="curriculum" style="width: 32px; vertical-align: middle; margin-left: 10px;" />
+     <a href="https://github.com/kats76/kats76/blob/main/Juan%20Paez%20CV%20(1).pdf" target="_blank">
+        <img src="https://img.shields.io/badge/curriculum-%23000000.svg?color=007ACC&style=for-the-badge&logo=pdf&logoColor=white" alt="curriculum" style="width: 32px; vertical-align: middle; margin-left: 10px;" />
     </a>
 </div>
 
