@@ -11,7 +11,7 @@ Mi nombre es Juan David, soy un desarrollador de software con más de un año de
 
 <br />
 Soy un desarrollador apasionado por el ecosistema Linux, tanto a nivel de usuario como en servidores. Disfruto desarrollando proyectos y probando su despliegue, ya sea en servidores caseros o VPS. Tengo experiencia en la implementación y gestión de contenedores con Docker, y me gusta personalizar mi entorno de desarrollo para optimizar mi productividad.
-<br />
+
 
 - 🔭 I’m currently working on  Soy Estudiante
   
@@ -23,7 +23,6 @@ Soy un desarrollador apasionado por el ecosistema Linux, tanto a nivel de usuari
   
 - ⚡ Fun fact: Me gustan los girasoles.
 <br />
-
 Contactame
  **[Aqui](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** o <a href="mailto:juandavidpaezrivadeneria@gmail.com"><b>Enviame un correo</b></a>.
 <br />
