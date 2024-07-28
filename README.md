@@ -8,10 +8,7 @@
 <br />
 Mi nombre es Juan David, soy un desarrollador de software con más de un año de experiencia en el diseño, desarrollo e implementación de aplicaciones y soluciones utilizando una variedad de tecnologías y lenguajes de programación.
 <br />
-
-<br />
-Soy un desarrollador apasionado por el ecosistema Linux, tanto a nivel de usuario como en servidores. Disfruto desarrollando proyectos y probando su despliegue, ya sea en servidores caseros o VPS. Tengo experiencia en la implementación y gestión de contenedores con Docker, y me gusta personalizar mi entorno de desarrollo para optimizar mi productividad.
-
+     
 <h2> Con conocimiento en </h2>
 
 -  Programación Orientada a objetos
@@ -23,8 +20,10 @@ Soy un desarrollador apasionado por el ecosistema Linux, tanto a nivel de usuari
 -  Administración de servicios de internet
 
 - Despliegue a producción 
-  
- 
+<br />
+
+Soy un desarrollador apasionado por el ecosistema Linux, tanto a nivel de usuario como en servidores. Disfruto desarrollando proyectos y probando su despliegue, ya sea en servidores caseros o VPS. Tengo experiencia en la implementación y gestión de contenedores con Docker, y me gusta personalizar mi entorno de desarrollo para optimizar mi productividad.
+
 <br />
 Contactame
  **[Aqui](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** o <a href="mailto:juandavidpaezrivadeneria@gmail.com"><b>Enviame un correo</b></a>.
