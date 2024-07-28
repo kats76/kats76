@@ -5,7 +5,7 @@
     </a>
 <br />
 
-Soy un desarrollador de software con más de un año de experiencia en el diseño, desarrollo e implementación de aplicaciones y soluciones utilizando una variedad de tecnologías y lenguajes de programación.
+Mi nombre es Juan David, soy un desarrollador de software con más de un año de experiencia en el diseño, desarrollo e implementación de aplicaciones y soluciones utilizando una variedad de tecnologías y lenguajes de programación.
 <br />
 
 <br />
@@ -14,7 +14,7 @@ Me mantengo informado sobre nuevas tecnologías, buscando soluciones a problemas
 <br />
 
 Contactame
- **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** or <a href="mailto:juandavidpaezrivadeneria@gmail.com"><b>Enviame un correo</b></a>.
+ **[Aqui](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** or <a href="mailto:juandavidpaezrivadeneria@gmail.com"><b>Enviame un correo</b></a>.
 <br />
 <br />
 
