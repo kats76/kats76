@@ -38,7 +38,7 @@
     <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="css"></a>
     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="javascript"></a>
     <a href="https://www.java.com" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"></a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" alt="dotnet"></a>
+    <a href="https://dotnet.microsoft.com/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg" alt="dotnet"></a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"></a>
     <a href="https://www.python.org/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="python"></a>
     <a href="https://www.php.net/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg" alt="php"></a>
@@ -46,7 +46,7 @@
     <h2> Bases de datos <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
     <a href="https://www.mysql.com/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"></a>
     <a href="https://www.sqlite.org/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite"></a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-original.svg" alt="SQL Server"></a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server"></a>
     <a href="https://www.mongodb.com/" target="_blank"><img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"></a>
     <br />
     <br />
