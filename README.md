@@ -29,7 +29,6 @@
         <a href="mailto:juandavidpaezrivadeneria@gmail.com"><b>Enviame un correo</b></a>.
     </p>
     <br />
-    <br />
 </div>
 
 <div align="center">
