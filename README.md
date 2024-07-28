@@ -22,7 +22,7 @@ Con conocimiento en
 
 - Despliegue a producción 
   
-  
+  </div>
 <br />
 Contactame
  **[Aqui](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** o <a href="mailto:juandavidpaezrivadeneria@gmail.com"><b>Enviame un correo</b></a>.
