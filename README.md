@@ -26,7 +26,7 @@ Con conocimiento en
 <br />
 Contactame
  **[Aqui](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** o <a href="mailto:juandavidpaezrivadeneria@gmail.com"><b>Enviame un correo</b></a>.
-<br />
+
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
