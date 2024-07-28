@@ -13,8 +13,6 @@ Mi nombre es Juan David, soy un desarrollador de software con más de un año de
 Soy un desarrollador apasionado por el ecosistema Linux, tanto a nivel de usuario como en servidores. Disfruto desarrollando proyectos y probando su despliegue, ya sea en servidores caseros o VPS. Tengo experiencia en la implementación y gestión de contenedores con Docker, y me gusta personalizar mi entorno de desarrollo para optimizar mi productividad.
 <br />
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 🔭 I’m currently working on  Soy Estudiante
   
 - 🌱 I’m currently learning Git, Java y GitHub
