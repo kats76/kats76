@@ -3,6 +3,8 @@
     <a href="https://www.linkedin.com/in/juan-paez-411348274/" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
+ </div>
+ <div>
 <br />
 <br />
 Mi nombre es Juan David, soy un desarrollador de software con más de un año de experiencia en el diseño, desarrollo e implementación de aplicaciones y soluciones utilizando una variedad de tecnologías y lenguajes de programación.
@@ -22,7 +24,7 @@ Con conocimiento en
 
 - Despliegue a producción 
   
-  </div>
+ 
 <br />
 Contactame
  **[Aqui](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** o <a href="mailto:juandavidpaezrivadeneria@gmail.com"><b>Enviame un correo</b></a>.
